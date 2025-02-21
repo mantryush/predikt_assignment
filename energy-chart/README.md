@@ -11,7 +11,7 @@ This project gets electricity spot price data from the Energy-Charts API for Ger
 ## 🚀 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/battulga-batman/predikt.git
+   git clone https://github.com/mantryush/predikt_assignment.git
    cd energy-chart
    ```
 

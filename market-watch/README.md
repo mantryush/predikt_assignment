@@ -21,7 +21,7 @@ This project scrapes **MarketWatch Futures Listings** and extracts detailed **fu
 ## 🚀 Installation
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/battulga-batman/predikt.git
+git clone https://github.com/mantryush/predikt_assignment.git
 cd market-watch
 ```
 
