@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "marketwatch-scraper"
+version = "0.1.0"
+description = "A scraper for fetching futures market data from MarketWatch"
+authors = ["Your Name <your.email@example.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "scraping"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+cloudscraper = "^1.2.71"
+beautifulsoup4 = "^4.12.2"
+polars = "^1.22.0"
+pytz = "^2023.3.post1"
+
+[tool.poetry.scripts]
+scrape = "main:main"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

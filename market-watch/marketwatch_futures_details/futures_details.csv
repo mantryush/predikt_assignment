@@ -1,0 +1,6 @@
+Futures Name,Price,Change (€),Change (%),Open Price,Open Interest,Settlement Price,Day Range,52-Week Range,Volume,65-Day Avg Volume,Last Updated,Performance 5 Day,Performance 1 Month,Performance 3 Month,Performance YTD,Performance 1 Year
+10-Year Euro Bund (FGBL00),132.11,40.14,0.94%,€131.59,"1,322,763",€131.60,131.56 - 132.20,128.73 - 136.93,Volume: 532.69K,65 Day Avg: 978.62K,2025-02-21T12:36:00.000000Z,-0.33%,0.59%,-0.71%,-0.88%,-0.89%
+10-Year Swapnote	 (PLI00),$2.57,40.14,0.94%,€131.10,333,€131.10,131.04 - 131.10,N/A,N/A,N/A,2025-02-20T18:00:00.000000Z,N/A,N/A,N/A,N/A,N/A
+10-Year Treasury Notes (TY00),109.203,40.14,0.94%,$109.125,"4,729,141",$109.172,109.109 - 109.359,107.125 - 115.734,Volume: 814.27K,65 Day Avg: 1.72M,2025-02-21T12:41:00.000000Z,-0.09%,0.68%,-0.43%,0.40%,-0.65%
+2-Year Euro Schatz	 (FGBS00),106.775,40.14,0.94%,€106.690,"2,121,771",€106.700,106.685 - 106.795,104.880 - 107.375,Volume: 231.18K,65 Day Avg: 538.42K,2025-02-21T12:36:00.000000Z,0.02%,0.27%,-0.18%,-0.18%,1.44%
+2-Year Swapnote (TWS00),$2.57,40.14,0.94%,€107.230,155,€107.230,107.190 - 107.230,N/A,Volume: 0,65 Day Avg: 1.62,2025-02-20T18:00:00.000000Z,N/A,N/A,N/A,N/A,N/A
